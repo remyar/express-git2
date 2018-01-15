@@ -1,6 +1,6 @@
 {
   "name": "express-git2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An express middleware acting as git-http-backend and more",
   "main": "lib/index.js",
   "author": "Remy ARNAUDIN <remy.arnaudin@wanadoo.fr>",
@@ -17,7 +17,6 @@
     "bluebird": "^2.9.27",
     "body-parser": "^1.14.1",
     "busboy": "^0.2.9",
-    "coffee-script": "^1.9.3",
     "events-as-promised": "^0.1.4",
     "express": "^4.12.4",
     "lodash": "^3.10.1",
