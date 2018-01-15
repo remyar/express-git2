@@ -6,7 +6,7 @@ Usage:
 ```javascript
 
 var express = require("express");
-var expressGit = require("express-git");
+var expressGit = require("express-git2");
 var app = express();
 app.use("/git", expressGit.serve("path/torepos/", {
 	auto_init: true,
